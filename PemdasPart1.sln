@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PemdasPart1", "PemdasPart1\PemdasPart1.vcxproj", "{3EC33DC9-4D03-4991-99F1-A9FD87D0AE8C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Part2", "Part2\Part2.vcxproj", "{A36D83DB-A93E-4470-86C1-8868A1794949}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{3EC33DC9-4D03-4991-99F1-A9FD87D0AE8C}.Release|x64.Build.0 = Release|x64
 		{3EC33DC9-4D03-4991-99F1-A9FD87D0AE8C}.Release|x86.ActiveCfg = Release|Win32
 		{3EC33DC9-4D03-4991-99F1-A9FD87D0AE8C}.Release|x86.Build.0 = Release|Win32
+		{A36D83DB-A93E-4470-86C1-8868A1794949}.Debug|x64.ActiveCfg = Debug|x64
+		{A36D83DB-A93E-4470-86C1-8868A1794949}.Debug|x64.Build.0 = Debug|x64
+		{A36D83DB-A93E-4470-86C1-8868A1794949}.Debug|x86.ActiveCfg = Debug|Win32
+		{A36D83DB-A93E-4470-86C1-8868A1794949}.Debug|x86.Build.0 = Debug|Win32
+		{A36D83DB-A93E-4470-86C1-8868A1794949}.Release|x64.ActiveCfg = Release|x64
+		{A36D83DB-A93E-4470-86C1-8868A1794949}.Release|x64.Build.0 = Release|x64
+		{A36D83DB-A93E-4470-86C1-8868A1794949}.Release|x86.ActiveCfg = Release|Win32
+		{A36D83DB-A93E-4470-86C1-8868A1794949}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
