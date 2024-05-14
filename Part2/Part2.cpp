@@ -12,7 +12,11 @@ public:
 	void setID();
 	void printAll();
 
-	
+	static void setNim(int pNim) { nim = pNim; } //Definisi Function 
+	static int getNim() { return nim; } //"definisi finction"
+
+	mahasiswa(string pnama) :nama(pnama) { setID(); }
+
 };
 
 
